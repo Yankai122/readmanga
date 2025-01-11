@@ -1,1 +1,1 @@
-# readmanga
+# mangastick
